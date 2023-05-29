@@ -115,7 +115,7 @@
             alt="gmail"
             width="40px">
         </figure>
-        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block"> lemosrs.gustavo@gmail.com </figcaption>
+        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block">ㅤ lemosrs.gustavo@gmail.com </figcaption>
     </div>
     <div style="flex">
         <figure style="display: inline-block">
@@ -124,7 +124,7 @@
             alt="linkedin"
             width="40px">
         </figure>
-        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block"> https://www.linkedin.com/in/lemosrs-gustavo/ </figcaption>
+        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block">ㅤ https://www.linkedin.com/in/lemosrs-gustavo/ </figcaption>
     </div>
 </div>
 </footer>

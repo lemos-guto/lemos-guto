@@ -2,6 +2,7 @@
 <main>
 <div>
     <h2 align="center">Sobre mim</h2>
+    <br>
     <p>Me chamo Gustavo e estou cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
     <p>Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 
     à vontade.</p>
@@ -112,7 +113,7 @@
             <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
             alt="gmail"
-            width="32px">
+            width="40px">
         </figure>
         <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block"> lemosrs.gustavo@gmail.com </figcaption>
     </div>
@@ -121,7 +122,7 @@
             <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"
             alt="linkedin"
-            width="32px">
+            width="40px">
         </figure>
         <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block"> https://www.linkedin.com/in/lemosrs-gustavo/ </figcaption>
     </div>

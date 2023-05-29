@@ -1,33 +1,21 @@
-<head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-</head>
-
 <body>
 <header>
 <div align="center">
-    <img 
-        width="150px" 
-        src="https://cdn.icon-icons.com/icons2/2787/PNG/512/black_cat_icon_177458.png" 
-        align="center" 
-        alt="GitHub Readme Stats">
-    <h1 align="center" style="font-family: 'Press Start 2P', cursive;">Opa, sou o Gustavo! </h1> 
+    <h1 align="center">Opa, sou o Gustavo! </h1> 
 </div>
 </header>
 <main>
 <div>
-    <h2 align="center" style="font-family: 'Press Start 2P', cursive;">Sobre mim</h2>
-    <p style="font-family: 'Press Start 2P', cursive;">Cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
-    <p style="font-family: 'Press Start 2P', cursive">Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 
+    <p align="center">Sobre mim</p>
+    <p>Cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
+    <p>Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 
     à vontade.</p>
     <br>
-    <hr>
 </div>
 <div>
-    <h2 align="center" style="font-family: 'Press Start 2P', cursive;">Status</h2>
-    <div style="display: flex">
-        <div style="display: inline-block; padding: 10px;">
+    <h2 align="center">Status</h2>
+    <div>
+        <div>
         <picture>
             <source
             srcset="https://github-readme-stats.vercel.app/api?username=lemos-guto&show_icons=true&theme=kacho_ga&rank_icon=github"
@@ -39,7 +27,7 @@
             />
             <img src="https://github-readme-stats.vercel.app/api?username=lemos-guto&show_icons=true&theme=moltack&hide_rank=true" />
         </div>
-        <div style="display: inline-block; padding: 10px;">
+        <div>
         </picture> 
             <picture>
             <source
@@ -55,11 +43,10 @@
         </div> 
     </div>
     <br>
-    <hr>
 </div>
 <div>
     <br>
-    <h2 align="center" style="font-family: 'Press Start 2P', cursive;"> Skills</h2>
+    <h2 align="center"> Skills</h2>
     <div style="display: flex; margin-left:170px">
         <div style="padding: 10px;">
             <figure style="margin-left:5px;">

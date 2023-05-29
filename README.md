@@ -44,15 +44,15 @@
 <div>
     <br>
     <h2 align="center"> Skills</h2>
-    <div>
+    <div align="center">
         <div>
-            <figure>
-                <img
+        <figure>
+            <img
                 src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
                 alt="c++"
                 width="32px">
-            </figure>
-            <figcaption> C++ </figcaption>
+        </figure>
+        <figcaption> C++ </figcaption>
         </div>
         <div>
         <figure>
@@ -72,7 +72,7 @@
         </figure>
         <figcaptio> CSS </figcaption>
         </div>
-        <div style="padding: 10px;">
+        <div>
         <figure>
             <img
             src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png"
@@ -106,7 +106,7 @@
 <footer>
 <div>
     <br>
-    <h2> Contato</h2>
+    <h2 align="center"> Contato</h2>
     <br>
     <div>
         <figure>

@@ -46,7 +46,7 @@
     <h2 align="center"> Skills</h2>
     <div>
         <div>
-        <code><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++"width="32px"> c++ </code>
+        <span><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++"width="32px"> c++ </span>
         </div>
         <div>
         <figure>

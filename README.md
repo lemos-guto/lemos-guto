@@ -1,16 +1,148 @@
-### Hi there 👋
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
 
-<!--
-**lemos-guto/lemos-guto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+<header>
+<div align="center">
+    <img 
+        width="150px" 
+        src="https://cdn.icon-icons.com/icons2/2787/PNG/512/black_cat_icon_177458.png" 
+        align="center" 
+        alt="GitHub Readme Stats">
+    <h1 align="center" style="font-family: 'Press Start 2P', cursive;">Opa, sou o Gustavo! </h1> 
+</div>
+</header>
+<main>
+<div>
+    <h2 align="center" style="font-family: 'Press Start 2P', cursive;">Sobre mim</h2>
+    <p style="font-family: 'Press Start 2P', cursive;">Cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
+    <p style="font-family: 'Press Start 2P', cursive">Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 
+    à vontade.</p>
+    <br>
+    <hr>
+</div>
+<div>
+    <h2 align="center" style="font-family: 'Press Start 2P', cursive;">Status</h2>
+    <div style="display: flex">
+        <div style="display: inline-block; padding: 10px;">
+        <picture>
+            <source
+            srcset="https://github-readme-stats.vercel.app/api?username=lemos-guto&show_icons=true&theme=kacho_ga&rank_icon=github"
+            media="(prefers-color-scheme: dark)"
+            />
+            <source
+            srcset="https://github-readme-stats.vercel.app/api?username=lemos-guto&show_icons=true&theme=moltack&hide_rank=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=lemos-guto&show_icons=true&theme=moltack&hide_rank=true" />
+        </div>
+        <div style="display: inline-block; padding: 10px;">
+        </picture> 
+            <picture>
+            <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lemos-guto&layout=compact&theme=kacho_ga"
+            media="(prefers-color-scheme: dark)"
+            />
+            <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lemos-guto&layout=compact&theme=moltack"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemos-guto&layout=compact&theme=moltack" />
+        </picture>
+        </div> 
+    </div>
+    <br>
+    <hr>
+</div>
+<div>
+    <br>
+    <h2 align="center" style="font-family: 'Press Start 2P', cursive;"> Skills</h2>
+    <div style="display: flex; margin-left:170px">
+        <div style="padding: 10px;">
+            <figure style="margin-left:5px;">
+                <img
+                src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
+                alt="c++"
+                width="32px">
+            </figure>
+            <figcaption style="font-family: 'Press Start 2P', cursive;"> C++ </figcaption>
+        </div>
+        <div style="padding: 10px;">
+        <figure style="margin-left:5px;">
+            <img
+            src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"
+            alt="html"
+            width="32px">
+        </figure>
+        <figcaption style="font-family: 'Press Start 2P', cursive;"> HTML </figcaption>
+        </div>
+        <div style="padding: 10px;">
+        <figure style="margin-left:5px;">
+            <img
+            src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
+            alt="css"
+            width="32px">
+        </figure>
+        <figcaption style="font-family: 'Press Start 2P', cursive;"> CSS </figcaption>
+        </div>
+        <div style="padding: 10px;">
+        <figure style="margin-left:13px;">
+            <img
+            src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png"
+            alt="java"
+            width="32px">
+        </figure>
+        <figcaption style="font-family: 'Press Start 2P', cursive;"> JAVA </figcaption>
+        </div>
+        <div style="padding: 10px;">
+        <figure style="margin-left:13px;">
+            <img
+            src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"
+            alt="mysql"
+            width="32px">
+        </figure>
+        <figcaption style="font-family: 'Press Start 2P', cursive;"> MYSQL </figcaption>
+        </div>
+        <div style="padding: 10px;">
+        <figure style="margin-left:-1px;">
+            <img
+            src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
+            alt="c#"
+            width="32px">
+        </figure>
+        <figcaption style="font-family: 'Press Start 2P', cursive;"> C# </figcaption>
+        </div>
+    </div>
+    <br>
+    <hr>
+</div>
+</main>
+<footer>
+<div>
+    <br>
+    <h2 style="font-family: 'Press Start 2P', cursive;" align="center"> Contato</h2>
+    <br>
+    <div style="flex">
+        <figure style="display: inline-block">
+            <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
+            alt="gmail"
+            width="32px">
+        </figure>
+        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block"> lemosrs.gustavo@gmail.com </figcaption>
+    </div>
+    <div style="flex">
+        <figure style="display: inline-block">
+            <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"
+            alt="linkedin"
+            width="32px">
+        </figure>
+        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block"> https://www.linkedin.com/in/lemosrs-gustavo/ </figcaption>
+    </div>
+</div>
+</footer>
+</body>

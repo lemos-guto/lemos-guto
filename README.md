@@ -64,40 +64,40 @@
         <figcaption> HTML </figcaption>
         </div>
         <div>
-        <figure style="margin-left:5px;">
+        <figure>
             <img
             src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
             alt="css"
             width="32px">
         </figure>
-        <figcaption style="font-family: 'Press Start 2P', cursive;"> CSS </figcaption>
+        <figcaptio> CSS </figcaption>
         </div>
         <div style="padding: 10px;">
-        <figure style="margin-left:13px;">
+        <figure>
             <img
             src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png"
             alt="java"
             width="32px">
         </figure>
-        <figcaption style="font-family: 'Press Start 2P', cursive;"> JAVA </figcaption>
+        <figcaption> JAVA </figcaption>
         </div>
-        <div style="padding: 10px;">
-        <figure style="margin-left:13px;">
+        <div>
+        <figure>
             <img
             src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"
             alt="mysql"
             width="32px">
         </figure>
-        <figcaption style="font-family: 'Press Start 2P', cursive;"> MYSQL </figcaption>
+        <figcaption> MYSQL </figcaption>
         </div>
-        <div style="padding: 10px;">
-        <figure style="margin-left:-1px;">
+        <div>
+        <figure>
             <img
             src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
             alt="c#"
             width="32px">
         </figure>
-        <figcaption style="font-family: 'Press Start 2P', cursive;"> C# </figcaption>
+        <figcaption> C# </figcaption>
         </div>
     </div>
     <br>
@@ -106,25 +106,26 @@
 <footer>
 <div>
     <br>
-    <h2 style="font-family: 'Press Start 2P', cursive;" align="center"> Contato</h2>
+    <h2> Contato</h2>
     <br>
-    <div style="flex">
-        <figure style="display: inline-block">
+    <div>
+        <figure>
             <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
             alt="gmail"
             width="40px">
         </figure>
-        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block">ㅤ lemosrs.gustavo@gmail.com </figcaption>
+        <figcaption>ㅤ lemosrs.gustavo@gmail.com </figcaption>
     </div>
-    <div style="flex">
-        <figure style="display: inline-block">
+    <br>
+    <div>
+        <figure>
             <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"
             alt="linkedin"
             width="40px">
         </figure>
-        <figcaption style="margin-left:-20px;font-family: 'Press Start 2P', cursive;display: inline-block">ㅤ https://www.linkedin.com/in/lemosrs-gustavo/ </figcaption>
+        <figcaption>ㅤ https://www.linkedin.com/in/lemosrs-gustavo/ </figcaption>
     </div>
 </div>
 </footer>

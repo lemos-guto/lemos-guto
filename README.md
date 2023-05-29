@@ -1,7 +1,7 @@
 <body>
 <main>
-<div>
-    <h2 align="center">Sobre mim</h2>
+<div align="center">
+    <h2>Sobre mim</h2>
     <br>
     <p>Me chamo Gustavo e estou cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
     <p>Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 

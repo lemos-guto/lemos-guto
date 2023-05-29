@@ -6,7 +6,7 @@
 </header>
 <main>
 <div>
-    <p align="center">Sobre mim</p>
+    <h2 align="center">Sobre mim</h2>
     <p>Cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
     <p>Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 
     à vontade.</p>

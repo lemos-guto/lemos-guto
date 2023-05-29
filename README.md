@@ -1,15 +1,11 @@
 <body>
-<header>
-<div align="center">
-    <h1 align="center">Opa, sou o Gustavo! </h1> 
-</div>
-</header>
 <main>
 <div>
     <h2 align="center">Sobre mim</h2>
-    <p>Cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
+    <p>Me chamo Gustavo e estou cursando o terceiro ano de Informática no Instituto Federal de São Paulo.</p>
     <p>Tenho uma quedinha por front-end, me sinto livre para usar minha criatividade 
     à vontade.</p>
+    <p>Procuro um estagio onde eu possa crescer e me tornar quem eu almejo ser.</p>
     <br>
 </div>
 <div>
@@ -47,26 +43,26 @@
 <div>
     <br>
     <h2 align="center"> Skills</h2>
-    <div style="display: flex; margin-left:170px">
-        <div style="padding: 10px;">
-            <figure style="margin-left:5px;">
+    <div>
+        <div>
+            <figure>
                 <img
                 src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
                 alt="c++"
                 width="32px">
             </figure>
-            <figcaption style="font-family: 'Press Start 2P', cursive;"> C++ </figcaption>
+            <figcaption> C++ </figcaption>
         </div>
-        <div style="padding: 10px;">
-        <figure style="margin-left:5px;">
+        <div>
+        <figure>
             <img
             src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"
             alt="html"
             width="32px">
         </figure>
-        <figcaption style="font-family: 'Press Start 2P', cursive;"> HTML </figcaption>
+        <figcaption> HTML </figcaption>
         </div>
-        <div style="padding: 10px;">
+        <div>
         <figure style="margin-left:5px;">
             <img
             src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
@@ -104,7 +100,6 @@
         </div>
     </div>
     <br>
-    <hr>
 </div>
 </main>
 <footer>

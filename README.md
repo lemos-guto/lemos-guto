@@ -65,9 +65,9 @@
 </div>
 </main>
 <footer>
-<div>
+<div  align="center">
     <br>
-    <h2 align="center"> Contato</h2>
+    <h2> Contato</h2>
     <br>
     <div>
         <figure>

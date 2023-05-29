@@ -11,7 +11,7 @@
 </div>
 <div>
     <h2 align="center">Status</h2>
-    <div>
+    <div align="center">
         <div>
         <picture>
             <source
@@ -44,7 +44,7 @@
 <div>
     <br>
     <h2 align="center"> Skills</h2>
-    <div align="center">
+    <div>
         <div>
         <figure>
             <img

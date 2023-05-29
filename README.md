@@ -46,18 +46,20 @@
     <br>
     <h2 align="center"> Skills</h2>
 <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="32px"> ㅤㅤㅤ
+    <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="32px"> ㅤㅤ
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="32px">ㅤㅤ
-    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="java" width="32px">ㅤㅤㅤ
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="java" width="32px">ㅤㅤ
     <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="32px">ㅤㅤ
-    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="32px">
+    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="32px">ㅤㅤ
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c#" width="32px">
 </div>
 <div align="center">
-    ㅤ<span>HTML</span>ㅤ
-    <span>ㅤㅤCSS</span>ㅤ
-    <span>ㅤㅤJAVA</span>ㅤㅤ
+   ㅤ<span>HTML</span>ㅤㅤ
+    <span>CSS</span>ㅤㅤ
+    <span>JAVA</span>ㅤㅤ
     <span>MYSQL</span>ㅤㅤ
     <span>C#</span>ㅤㅤ
+    <span>C++</span>ㅤ
 </div>
 <br>
 </div>
